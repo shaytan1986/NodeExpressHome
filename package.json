@@ -1,0 +1,15 @@
+{
+  "name": "Meadowlark",
+  "version": "1.0.0",
+  "description": "Meadowlark site for \"Web Development with Node and Express: Leveraging the JavaScript Stack\"",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Tower",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
+}
